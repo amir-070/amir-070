@@ -10,7 +10,7 @@
 
 ## 📌 Featured Projects
 
-- 🛒 [Amazon Homepage Clone]()
+- 🛒 [Amazon Homepage Clone](https://github.com/amir-070/Amazon-home-page-clone)
 - 🎬 [Netflix Clone](https://github.com/amir-070/Netflix-front-end-clone)
 - 🌐 [Other Project](YOUR_REPO_LINK)
 
