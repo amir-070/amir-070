@@ -12,7 +12,7 @@
 
 - 🛒 [Amazon Homepage Clone](https://github.com/amir-070/Amazon-home-page-clone)
 - 🎬 [Netflix Clone](https://github.com/amir-070/Netflix-front-end-clone)
-- 🌐 [Other Project](YOUR_REPO_LINK)
+- 🌐 [Other Project]([YOUR_REPO_LINK](https://github.com/amir-070/Basic-calculator-))
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=amir-070&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
